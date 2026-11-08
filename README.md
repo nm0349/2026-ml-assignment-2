@@ -1,3 +1,13 @@
 # 2026-ml-assignment-2
 
 Kaggle Dataset Link: https://www.kaggle.com/datasets/sairupeshl/online-shoppers-purchase-intention
+
+### metrics comparison table
+
+| ML Model Name          | Accuracy | AUC    | Precision | Recall | F1     | MCC    |
+| ---------------------- | -------- | ------ | --------- | ------ | ------ | ------ |
+| Logistic Regression    | 0.8869   | 0.8996 | 0.7524    | 0.4136 | 0.5338 | 0.5032 |
+| Decision Tree          | 0.8992   | 0.9133 | 0.7086    | 0.6047 | 0.6525 | 0.5966 |
+| KNN                    | 0.8763   | 0.8221 | 0.6869    | 0.3848 | 0.4933 | 0.4526 |
+| Naive Bayes            | 0.8161   | 0.8418 | 0.4419    | 0.6675 | 0.5318 | 0.4371 |
+| Support Vector Machine | 0.8939   | 0.8729 | 0.7450    | 0.4895 | 0.5908 | 0.5484 |

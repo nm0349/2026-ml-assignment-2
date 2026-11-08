@@ -31,7 +31,7 @@ deployed as a Streamlit app that evaluates the saved models on uploded test data
 
 ## c. GitHub repository
 
-<GitHub repository URL>
+< [https://github.com/nm0349/2026-ml-assignment-2.git](https://github.com/nm0349/2026-ml-assignment-2.git) >
 
 ```
 ├── app.py                    # Streamlit app (loads saved models, no retraining)
@@ -90,7 +90,7 @@ _Baseline: always predicting "no purchase" scores 0.8435 accuracy on the test se
 
 ## Streamlit app
 
-<Streamlit app URL>
+**Live app:** < [https://2026-ml-assignment-2-online-shoppers-intention.streamlit.app/](https://2026-ml-assignment-2-online-shoppers-intention.streamlit.app/) >
 
 Features: CSV upload (test data), model selection dropdown, all six evaluation metrics, confusion matrix and classification report, a predictions download, & a side-by-side comparison of all 5 models on the uploaded file. The app only loads the saved pipelines from `model/`; it never retrains on uploaded data.
 

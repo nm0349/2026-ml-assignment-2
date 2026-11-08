@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#0F766E"               # buttons, toggles, selected items
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EEF6F5"   # sidebar, upload box, expanders
+textColor = "#1F2937"
+font = "sans serif"

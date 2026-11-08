@@ -2,7 +2,7 @@
 
 **Course:** Machine Learning (AIMLZG565), M.Tech AIML, BITS Pilani WILP
 **Author:** <Nandini Maheshwari> (<BITSID: 2026AK05287>)
-**Live app:** <Streamlit app URL>
+**Live app:** < [https://2026-ml-assignment-2-online-shoppers-intention.streamlit.app/](https://2026-ml-assignment-2-online-shoppers-intention.streamlit.app/) >
 
 ## a. Problem statement
 
